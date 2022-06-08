@@ -23,7 +23,7 @@
               ></a>
             </div>
           </div>
-          <div class="col-lg-6">
+          <div class="col-lg-6 flex__center">
             <div class="hero-img wow fadeInUp" data-wow-delay=".5s">
               <img
                 src="../../assets/images/logo3.png"

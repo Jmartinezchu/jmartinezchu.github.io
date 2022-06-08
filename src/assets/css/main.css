@@ -24,7 +24,11 @@
 /* html {
   scrollbar-width: 2px;
 } */
-
+.flex__center{
+      display: flex;
+        justify-content: center;
+        align-items: center;
+}
 body {
   font-family: Arimo;
   font-weight: normal;
