@@ -15,8 +15,9 @@
                 </a>
               </div>
               <p class="desc mb-30 text-white">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                dinonumy eirmod tempor invidunt.
+                Las tecnologías cada vez van actualizándose más y más, y estoy
+                dispuesto a empaparme de ellas para mejorar y aportar en mi area
+                de trabajo.
               </p>
               <ul class="socials">
                 <li>

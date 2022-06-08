@@ -1060,7 +1060,7 @@ textarea{
     position: static;
     margin-top: 20px;
     background: #fff;
-    color: #5864FF;
+    color: var(--color--3);
     padding: 17.5px 35px;
   }
 }
@@ -1070,7 +1070,7 @@ textarea{
     position: absolute;
     margin-top: 0px;
     color: #fff;
-    background: #5864FF;
+    background: var(--color--2);
     padding: 17.5px 25px;
   }
 }
@@ -1092,8 +1092,9 @@ textarea{
 
 @media (max-width: 767px) {
   .footer {
-    padding-top: 120px;
-    background: #5864FF;
+    margin-top: 25px;
+    padding-top: 10px;
+    background: var(--color--2);
   }
 }
 
