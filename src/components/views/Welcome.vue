@@ -26,7 +26,7 @@
           <div class="col-lg-6">
             <div class="hero-img wow fadeInUp" data-wow-delay=".5s">
               <img
-                src="../../assets/images/hero/hero-img.png"
+                src="../../assets/images/logo3.png"
                 alt=""
                 style="
                   object-fit: cover;

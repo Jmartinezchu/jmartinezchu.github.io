@@ -117,7 +117,11 @@ export default {
                   timer: 4000,
                 }
               );
-              location.href = "/";
+              // location.href = "/";
+              me.nombres = "";
+              me.email = "";
+              me.telefono = "";
+              me.mensaje = "";
             },
             (err) => {
               console.log("FAILED...", err);

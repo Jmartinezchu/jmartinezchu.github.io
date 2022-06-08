@@ -2,7 +2,7 @@
   <footer class="footer" style="bottom: 0">
     <div class="container">
       <div class="widget-wrapper">
-        <div class="row">
+        <div class="row" style="align-items: center">
           <div class="col-xl-4 col-lg-4 col-md-6">
             <div class="footer-widget">
               <div class="logo mb-30">
@@ -70,7 +70,7 @@
               <ul class="links">
                 <li>
                   <router-link to="/Que_hacemos"
-                    >¿Que hay que hacer hoy?</router-link
+                    >¿Que hay de hacer hoy?</router-link
                   >
                 </li>
                 <li><router-link to="/Skills">Skills</router-link></li>

@@ -19,7 +19,7 @@ Author: lineicons.com
   font: normal normal normal 1em/1 'LineIcons';
   color: inherit;
   flex-shrink: 0;
-  speak: none;
+  /* speak: none; */
   text-transform: none;
   line-height: 1;
   vertical-align: -.125em;
