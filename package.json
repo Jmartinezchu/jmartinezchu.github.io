@@ -1,0 +1,21 @@
+{
+  "name": "my-portafolio",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@csstools/normalize.css": "^12.0.0",
+    "@emailjs/browser": "^3.6.2",
+    "sweetalert": "^2.1.2",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
